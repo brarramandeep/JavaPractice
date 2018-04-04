@@ -6,6 +6,9 @@ public class Array {
 	
 	for(int i=0;i<names.length;i++){
 		System.out.println("Names "+i + " is: " +names[i]);
+		
+		
+		system.out.println("Trying to add new line to code in Git")
 		}
      }
    }
