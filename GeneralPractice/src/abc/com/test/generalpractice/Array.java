@@ -1,0 +1,11 @@
+package abc.com.test.generalpractice;
+
+public class Array {
+	public static void main(String args[]){
+	String [] names= {"Raman","Manpreet","Mehreen","Gursahib","Santokh"};
+	
+	for(int i=0;i<names.length;i++){
+		System.out.println("Names "+i + " is: " +names[i]);
+		}
+     }
+   }
