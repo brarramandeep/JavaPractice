@@ -9,6 +9,9 @@ public class Array {
 		
 		
 		system.out.println("Trying to add new line to code in Git")
+
+system.out.println("Let c if i can do it.Trying to add new line to code in Git")
+
 			system.out.println(" not sure so will add this new line to code in Git branch")
 		}
      }
